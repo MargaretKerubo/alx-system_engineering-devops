@@ -1,0 +1,1 @@
+the command 'su' is used to switch users
