@@ -1,0 +1,1 @@
+scrpt one is for creating an alias.
